@@ -1,0 +1,144 @@
+.amber {
+  background-color: #f59e0b;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #f0f8ff;
+}
+
+.blue {
+  background-color: #0b69ff;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #f0f8ff;
+}
+
+.orange {
+  background-color: #f97316;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #f0f8ff;
+}
+
+.emerald {
+  background-color: #10b981;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #f0f8ff;
+}
+
+.teal {
+  background-color: #14b8a6;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #f0f8ff;
+}
+
+.red {
+  background-color: #b91c1c;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #f0f8ff;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #f0f8ff;
+}
+
+/* Write your CSS here */
+.cont {
+  display: flex;
+  align-items: center;
+}
+
+.list-item {
+  list-style: none;
+}
+
+.profile {
+  height: 50px;
+  width: 50px;
+  border-radius: 30px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #10b981;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #475569;
+  margin-left: 15px;
+}
+
+.time {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: #cbd2d9;
+  margin-left: 15px;
+}
+
+.comment-text {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #334155;
+  font-weight: 500;
+}
+
+.button-cont {
+  display: flex;
+  justify-content: space-between;
+}
+
+.button2 {
+  background-color: #ffffff;
+  border: 0px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  outline: none;
+  color: #7e858e;
+}
+
+.active {
+  color: #0ea5e9;
+  font-weight: 600;
+}
+
+.cont {
+  display: flex;
+  align-items: center;
+}
